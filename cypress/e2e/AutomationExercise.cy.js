@@ -1,8 +1,8 @@
 /// <reference types="cypress" />
 const Proceedwithshopping = require('../pages/Proceedwithshopping');
-const regdata = require('C:\\Orange-HRMCYP\\cypress\\fixtures\\automationexercise.json');
-const Loginautomationexercise = require('C:\\Orange-HRMCYP\\cypress\\pages\\Loginautomationexercise.js');
-const UserRegistrationautexercise = require('C:\\Orange-HRMCYP\\cypress\\pages\\UserRegistrationautexercise.js');
+const regdata = require('C:\\AutomationExcerciseCYP\\cypress\\fixtures\\automationexercise.json');
+const Loginautomationexercise = require('C:\\AutomationExcerciseCYP\\cypress\\pages\\Loginautomationexercise.js');
+const UserRegistrationautexercise = require('C:\\AutomationExcerciseCYP\\cypress\\pages\\UserRegistrationautexercise.js');
 
 describe('List of scenarios to be tested on AutomationExercise site',()=>
 {

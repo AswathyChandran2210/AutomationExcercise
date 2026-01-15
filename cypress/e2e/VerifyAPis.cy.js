@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-const testdata = require('C:\\Orange-HRMCYP\\cypress\\fixtures\\automationexercise.json');
+const testdata = require('C:\\AutomationExcerciseCYP\\cypress\\fixtures\\automationexercise.json');
 
 describe('Verify the different API scenarios',()=>
 {
