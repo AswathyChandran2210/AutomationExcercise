@@ -1,0 +1,18 @@
+{
+    "invalid": 
+    {
+      "username": "mk@gmail.com",
+      "password": "errrt"
+    },
+    
+    "register": 
+    {
+      "firstname": "Neha",
+      "lastname": "Gupta",
+      "email": "neha.gupta06@mailinator.com",
+      "tphone":"9876543215",
+      "password": "Test@1234",
+      "cpassword":"Test@1234"
+    }
+  }
+  
