@@ -33,6 +33,7 @@ describe('List of scenarios to be tested on AutomationExercise site',()=>
                 cy.wait(100);
                 cy.get('[data-qa="continue-button"]').click();
                 Proceedwithshopping.Usershopping(regdata.search.product1);
+                Proceedwithshopping.addtocart();
 
                 // Continue with next steps
             }

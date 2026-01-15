@@ -1,27 +1,27 @@
 {
     "cred":
     {
-        "username":"john02@test.com",
-        "password":"John@456"
+        "username":"michael.brown@test.com",
+        "password":"Mike#789"
     },
     "registration":
     {
-        "name":"John",
-        "emaill":"john02@test.com",
-        "password":"John@456",
+        "name":"Michael",
+        "emaill":"michael.brown@test.com",
+        "password":"Mike#789",
         "days":"18",
         "months":"8",
         "year":"1992",
-        "firstname":"John",
-        "lastname":"Doe",
-        "company":"ABc Solutions",
-        "address1":"45, Park Street",
-        "address2":"Opposite  city Plazza",
+        "firstname":"Michael",
+        "lastname":"Karen",
+        "company":"Techcorp Solutions",
+        "address1":"233, Park Avenue",
+        "address2":"Opposite  penta Plazza",
         "country":"India",
         "state":"Kerala",
         "city":"Kochi",
-        "zipcode":"22558",
-        "mobilenumber":"8899668899"
+        "zipcode":"114477",
+        "mobilenumber":"6688996633"
 
     },
     "search":
